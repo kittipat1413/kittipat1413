@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Kittipat's github stats](https://github-readme-stats.vercel.app/api?username=kittipat1413&show_icons=true&hide_border=true)
+<img align="left" alt="Kittipat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kittipat1413&show_icons=true&hide_border=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittipat1413&show_icons=true&hide_border=true)](https://github.com/kittipat1413)
 
 <!--
