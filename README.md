@@ -1,21 +1,18 @@
 ## Kittipat Poonyakariyakorn
 ### Hi there 👋
 
-<img align="left" alt="Kittipat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kittipat1413&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittipat1413&show_icons=true&hide_border=true)](https://github.com/kittipat1413)
 
 ## Statistic
 
-## Language
+### Language
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittipat1413&show_icons=true&locale=en&layout=compact" alt="kittipat1413" />
 
-## Commit
+### Commit
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittipat1413&show_icons=true&locale=en" alt="kittipat1413" />
 
-## Profile View
+### Profile View
 
   <img src="https://komarev.com/ghpvc/?username=kittipat1413&label=Profile%20views&color=0e75b6&style=flat" alt="kittipat1413" />
 
