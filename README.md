@@ -5,7 +5,7 @@
 
 |                 Type                 |            Information            |
 | :----------------------------------: | :-------------------------------: |
-| ![LinkedIn icon](/images/linkedin-icon.png) | https://www.linkedin.com/in/kittipat-poonyakariyakorn-795389187/ |
+| ![LinkedIn icon](/images/linkedin-icon.png) | [kittipat-poonyakariyakorn](https://www.linkedin.com/in/kittipat-poonyakariyakorn-795389187/) |
 
 ## Statistic
 
