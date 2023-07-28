@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Kittipat Poonyakariyakorn, a Software Engineer passionate about building scalable and efficient systems. Welcome to my GitHub profile!
+__I'm Kittipat Poonyakariyakorn, a Software Engineer passionate about building scalable and efficient systems. Welcome to my GitHub profile!__
 
-## Contact
+## 📫 How to reach me
 
 |                 Type                 |            Information            |
 | :----------------------------------: | :-------------------------------: |
