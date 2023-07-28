@@ -8,7 +8,7 @@ __I'm Kittipat Poonyakariyakorn, a Software Engineer passionate about building s
 | ![LinkedIn icon](/images/linkedin-icon.png) | [Kittipat Poonyakariyakorn](https://www.linkedin.com/in/kittipat-poonyakariyakorn-795389187/) |
 | ![Devto icon](/images/devto-icon.png) | [Kittipat.po](https://dev.to/kittipat1413) |
 
-## Statistic
+## 📈 Statistic
 
 ### Language
 
@@ -22,7 +22,7 @@ __I'm Kittipat Poonyakariyakorn, a Software Engineer passionate about building s
 
   <img src="https://komarev.com/ghpvc/?username=kittipat1413&label=Profile%20views&color=0e75b6&style=flat" alt="kittipat1413" />
 
-
+#### ⚡ Let's connect and collaborate on exciting projects together! ⚡
 <!--
 **kittipat1413/kittipat1413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
