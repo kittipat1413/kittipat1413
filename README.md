@@ -9,18 +9,17 @@ __I'm Kittipat Poonyakariyakorn, a Software Engineer passionate about building s
 | ![Devto icon](/images/devto-icon.png) | [Kittipat.po](https://dev.to/kittipat1413) |
 |![Medium icon](/images/medium-icon.png)| [Kittipat.po](https://medium.com/@kittipat_1413)|
 
-## 📚 My latest posts
-[![Kittipat Medium](https://github-readme-medium.vercel.app/?username=kittipat_1413&limit=3)](https://medium.com/@kittipat_1413)
+## 📚 My Latest Articles
+![Kittipat's blog](https://github-read-medium.vercel.app/latest?username=kittipat_1413&limit=6&theme=algolia)
 
 ## 📈 Statistic
 
-### Language
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittipat1413&show_icons=true&locale=en&layout=compact" alt="kittipat1413" />
-
-### Commit
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kittipat1413&show_icons=true&locale=en" alt="kittipat1413" />
+<p>
+<a href="https://github.com/codescaptain">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kittipat1413&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittipat1413&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### Profile View
 
