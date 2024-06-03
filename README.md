@@ -10,14 +10,14 @@ __I'm Kittipat Poonyakariyakorn, a Software Engineer passionate about building s
 |![Medium icon](/images/medium-icon.png)| [Kittipat.po](https://medium.com/@kittipat_1413)|
 
 ## 📚 My Latest Articles
-![Kittipat's blog](https://github-read-medium.vercel.app/latest?username=kittipat_1413&limit=6&theme=algolia)
+![Kittipat's blog](https://github-read-medium.vercel.app/latest?username=kittipat_1413&limit=6&theme=vue)
 
 ## 📈 Statistic
 
 <p>
 <a href="https://github.com/codescaptain">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kittipat1413&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittipat1413&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kittipat1413&show_icons=true&include_all_commits=true&count_private=true&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittipat1413&layout=compact&langs_count=8&theme=vue"/>
 </a>
 </p>
 
