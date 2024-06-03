@@ -7,6 +7,7 @@ __I'm Kittipat Poonyakariyakorn, a Software Engineer passionate about building s
 | :----------------------------------: | :-------------------------------: |
 | ![LinkedIn icon](/images/linkedin-icon.png) | [Kittipat Poonyakariyakorn](https://www.linkedin.com/in/kittipat-poonyakariyakorn-795389187/) |
 | ![Devto icon](/images/devto-icon.png) | [Kittipat.po](https://dev.to/kittipat1413) |
+|![Medium icon](/images/medium-icon.png)| [Kittipat.po](https://medium.com/@kittipat_1413)|
 
 ## 📚 My latest posts
 [![Kittipat Medium](https://github-readme-medium.vercel.app/?username=kittipat_1413&limit=3)](https://medium.com/@kittipat_1413)
