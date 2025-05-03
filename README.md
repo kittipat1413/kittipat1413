@@ -1,8 +1,8 @@
-## Hi there 👋
-I'm __Kittipat Poonyakariyakorn__, a dedicated Software Engineer with a passion for building scalable and efficient systems. I thrive on solving complex problems and am always excited to learn and innovate. Welcome to my GitHub profile!
+# 👋 Hi, I'm Kittipat Poonyakariyakorn
+A passionate Software Engineer specializing in backend architecture, system design, and cloud-native solutions. I enjoy building scalable, resilient systems and sharing insights through code and writing. Welcome to my GitHub space!
 
 ## 🚀 About Me
-- 🌱 I’m currently diving deep into advanced topics in cloud computing, microservices architecture, and distributed systems to stay ahead in the ever-evolving tech landscape.
+- 📘 I’m currently diving deep into advanced topics in cloud computing, microservices architecture, and distributed systems to stay ahead in the ever-evolving tech landscape.
 - 👯 I’m looking to collaborate on impactful open-source projects and contribute to the tech community.
 - 💬 Feel free to reach out if you want to discuss software design patterns, system architecture, optimization techniques, or anything tech-related.
 - 📈 I love analyzing and optimizing code for performance and scalability.
@@ -15,8 +15,22 @@ I'm __Kittipat Poonyakariyakorn__, a dedicated Software Engineer with a passion 
 | ![Devto icon](/images/devto-icon.png) | [Kittipat.po](https://dev.to/kittipat1413) |
 |![Medium icon](/images/medium-icon.png)| [Kittipat.po](https://medium.com/@kittipat_1413)|
 
-## 📚 My Latest Articles
-![Kittipat's blog](https://github-read-medium.vercel.app/latest?username=kittipat_1413&limit=6&theme=vue)
+
+## 🧩 Open Source Project
+### `go-common-lib` – Reusable Go library for modern backend services
+
+> A modular, production-ready library that helps backend teams standardize and accelerate microservices development with:
+>
+> - 🧵 Distributed Tracing with OpenTelemetry
+> - 🧾 Context-aware Structured Logging
+> - 🐛 Robust Error Handling Framework
+> - 💬 Event Processing
+> - 🧪 Middleware for Gin
+> - 🗃️ Utilities for Caching & Token Handling
+> - ⚙️ Common Utilities (pointer helpers, config loaders, etc.)
+> 
+> 🔗 [**Explore the Repository**](https://github.com/kittipat1413/go-common-lib)  
+> ✨ *Contributions are welcome! Open an issue, suggest a feature, or start a discussion.*
 
 ## 📈 Statistic
 
@@ -32,17 +46,3 @@ I'm __Kittipat Poonyakariyakorn__, a dedicated Software Engineer with a passion 
   <img src="https://komarev.com/ghpvc/?username=kittipat1413&label=Profile%20views&color=0e75b6&style=flat" alt="kittipat1413" />
 
 #### ⚡ Let's connect and collaborate on exciting projects together! ⚡
-<!--
-**kittipat1413/kittipat1413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
