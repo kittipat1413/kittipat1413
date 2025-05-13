@@ -15,6 +15,10 @@ A passionate Software Engineer specializing in backend architecture, system desi
 | ![Devto icon](/images/devto-icon.png) | [Kittipat.po](https://dev.to/kittipat1413) |
 |![Medium icon](/images/medium-icon.png)| [Kittipat.po](https://medium.com/@kittipat_1413)|
 
+## 🌐 Portfolio
+Check out my personal portfolio site to explore projects, writing, and more about me:
+
+👉 [**kittipat poonyakariyakorn**](https://kittipat-poonyakariyakorn.pages.dev/)
 
 ## 🧩 Open Source Project
 ### `go-common-lib` – Reusable Go library for modern backend services
